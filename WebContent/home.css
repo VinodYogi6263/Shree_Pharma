@@ -1,0 +1,13 @@
+@charset "ISO-8859-1";
+.site-navigation{
+	float: right;
+}
+.site-navigation ul,li{
+	margin: 0;
+	padding: 0;
+}
+.site-navigation li{
+	display: inline-block;
+	margin: .5em 1em 1em 1em;
+	font-size: 20px;
+}

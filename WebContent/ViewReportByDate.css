@@ -1,0 +1,47 @@
+@charset "ISO-8859-1";
+body{
+	margin: 0px;
+	padding: 0px;
+	height: 100vh;
+	align-items: center;
+	justify-content: center;
+	box-sizing: border-box;
+}
+
+.btn-a, .btn-b{
+	margin: 5px;
+	border-radius: 5px;
+	padding: 3px 15px;
+	cursor: pointer;
+}
+.btn-a{
+	border: 1px solid #018a8a;
+}
+.btn-b{
+	border: 1px solid red;
+}
+th{
+	text-align: center;
+	height: 30px;
+	padding: 8px;
+}
+th div{
+	height: 50px;
+	width: 50px;
+	border-radius: 50px;
+	border: 1ps solid #018a8a;
+	background-color: white;
+	margin: 5px 0px 5px 12px;
+}
+td{
+	text-align: center;
+	height: 30px;
+}
+td div{
+	height: 50px;
+	width: 50px;
+	border-radius: 50px;
+	border: 1ps solid #018a8a;
+	background-color: white;
+	margin: 5px 0px 5px 12px;
+}
